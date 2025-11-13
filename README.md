@@ -1,3 +1,5 @@
+its an ideathon submission to atehra global on devpost platform
+
 # one2many
 bridging gaps in learning and providing real world knowledge 
 # One to Many 💡  
